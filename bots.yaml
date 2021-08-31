@@ -1,1 +1,9 @@
-
+apps:
+    everylot:
+        consumer_key: 5vaODjiNhyJvMIiyVWPJU8uTC
+        consumer_secret: GrFjd0kM8u1W44kQwont1LJLJ3PzS0I01QKBOrcxmbfYdobeT3
+        
+    example_user_name:
+        key: 5vaODjiNhyJvMIiyVWPJU8uTC
+        secret: GrFjd0kM8u1W44kQwont1LJLJ3PzS0I01QKBOrcxmbfYdobeT3
+        app: everylot
